@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://trcosner.github.io/Portfolio",
+  "devDependencies": {
+    "react-scripts": "0.8.2"
+  },
+  "dependencies": {
+    "nuka-carousel": "^2.0.3",
+    "react": "^15.4.1",
+    "react-addons-css-transition-group": "^15.4.1",
+    "react-container-query": "^0.7.0",
+    "react-dom": "^15.4.1",
+    "react-fontawesome": "^1.5.0",
+    "react-swipeable": "^3.7.0",
+    "react-swiper": "^0.1.5",
+    "scroll-to-element": "^2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
